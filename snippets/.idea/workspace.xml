@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28f9979d-01d2-448b-849c-6d7018b16ee7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/daheim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,10 +20,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1S6shvg6YwpmDXYZ31MIvcZAagn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -98,7 +105,18 @@
       <workItem from="1570977766287" duration="2149000" />
       <workItem from="1571153137259" duration="599000" />
       <workItem from="1571828486697" duration="261000" />
+      <workItem from="1572339234092" duration="90000" />
+      <workItem from="1572958888900" duration="65000" />
+      <workItem from="1572958972618" duration="118000" />
     </task>
+    <task id="LOCAL-00001" summary="Änderungen von gestern wieder rückgängig gemacht.">
+      <created>1572339289287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572339289287</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Änderungen von gestern wieder rückgängig gemacht." />
+    <option name="LAST_COMMIT_MESSAGE" value="Änderungen von gestern wieder rückgängig gemacht." />
   </component>
 </project>
