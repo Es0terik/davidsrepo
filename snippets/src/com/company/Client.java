@@ -1,7 +1,11 @@
 package com.company;
 
-public class Client {
-    public void a() {
+class Client {
+    private IServer_A x = new Server();
+    void a() {
         System.out.println("Methode a");
+    }
+    void Server_b() {
+        x.b();
     }
 }

@@ -7,8 +7,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int b = 0;
-        test(b);
-        System.out.println("Hello, World!");
+        Client cli = new Client();
+        cli.a();
+        cli.Server_b();
     }
 }
